@@ -144,6 +144,23 @@ section ul {
     font-size: 30px;
 }
 
+@media screen and (max-width: 1500px) {
+    aside ul {
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    header,
+    nav{
+        flex-direction: column;
+    }
+
+    aside 
+    ul {
+        flex-direction: column;
+    }
+}
 
 
 
