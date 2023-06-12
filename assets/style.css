@@ -44,6 +44,10 @@ a:hover {
     color: white;
 }
 
+main {
+    display: flex;
+}
+
 main p {
     font-size: 25px;
     font-family: "arial";
@@ -58,12 +62,87 @@ main img {
     display: flex;
 }
 
+.border {
+    min-height: 300px;
+    border-right: 15px solid grey;
+    margin: 60px;
+    display: flex;
+}
+
+main h2 {
+    margin: 30px;
+    margin-top: 50px;
+}
+
+.aboutme{
+    border-style: outset;
+    padding: 10px;
+    background-color: rgb(175, 198, 211);
+    font-size: 40px;
+    font-family: "arial";
+    color: rgb(16, 54, 77);
+}
+
+.work {
+    border-style: outset;
+    padding: 10px;
+    background-color: rgb(175, 198, 211);
+    font-size: 40px;
+    font-family: "arial";
+    color: rgb(16, 54, 77);
+    font-weight: bold;
+}
+
+aside {
+    display: flex;
+}
+
+aside ul {
+    display: flex;
+}
+
+aside ul li {
+    list-style: none;
+    margin: 60px;
+    padding: 50px;
+    border-style: outset;
+    border-width: 20px 20px 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+aside h2 {
+    margin: 30px;
+    margin-top: 50px;
+}
+
+.resume {
+    border-style: outset;
+    padding: 10px;
+    background-color: rgb(175, 198, 211);
+    font-family: "arial";
+    color: rgb(16, 54, 77);
+    font-size: 40px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.contact {
+    border-style: outset;
+    padding: 10px;
+    background-color: rgb(175, 198, 211);
+    font-family: "arial";
+    color: rgb(16, 54, 77);
+    font-size: 40px;
+    display: flex;
+    flex-wrap: wrap;
+}
 
 
-
-
-
-
+section ul {
+    font-size: 30px;
+}
 
 
 
