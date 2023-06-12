@@ -1,0 +1,19 @@
+header {
+    width: auto;
+    height: auto;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    background-color: rgb(16, 54, 77);
+}
+
+h1 {
+    color: rgb(175, 198, 211);
+    font-family: "arial";
+    font-size: 60px;
+    position: left;
+    margin-left: 80px;
+    margin-right: 80px;
+    display: flex;
+    flex-wrap: wrap;
+}
