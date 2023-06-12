@@ -17,3 +17,54 @@ h1 {
     display: flex;
     flex-wrap: wrap;
 }
+
+nav {
+    padding: 20px;
+    margin: 20px;
+    color: rgb(175, 198, 211);
+    font-family: "arial";
+    margin-left: 600px;
+    flex-wrap: wrap;
+    display: flex;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    margin: 20px;
+    font-size: 20px;
+    margin-left: 50px;
+}
+
+a:visited {
+    color: rgb(175, 198, 211);
+}
+
+a:hover {
+    color: white;
+}
+
+main p {
+    font-size: 25px;
+    font-family: "arial";
+    color: rgb(16, 54, 77);
+    margin: 80px 50px;
+}
+
+main img {
+    height: 250px;
+    width: 230px;
+    margin: 50px;
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
