@@ -11,7 +11,8 @@ In the website you will find:
     -resume
     -contact information
 
+Deployed Page: https://cynthiap7.github.io/module2challenge/
 
 
 Screenshot
-!![image](https://github.com/CynthiaP7/module2challenge/assets/122586416/7853c810-6553-40ca-af10-2951c69e4b40)
+![image](https://github.com/CynthiaP7/module2challenge/assets/122586416/7853c810-6553-40ca-af10-2951c69e4b40)
